@@ -3,7 +3,7 @@ Superior auto typing bot for monkey type
 
 So what can this bot achieve:
 
-1. Well depending on the specs of your computer, it can reach well over 1000 wpm without breaking. (Already far greater than the majority of bots out there)
+1. Well depending on the specs of your computer, it can reach well over 1000 wpm on a potato without breaking. (Already far greater than the majority of bots out there)
 2. It can be toggled to achieve human like speed to avoid detection.(This mode is very SLOW)
 3. The delay between each word written can also be customised if the setting is turned to bot speed.
 4. There is no need to install any packages. The program will deal with that.
