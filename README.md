@@ -2,16 +2,20 @@
 Auto typing bot for monkey type
 
 So what can this bot achieve:
+
 Well depending on the specs of your computer, it can reach well over 1000 wpm without breaking. 
 It can be toggled to achieve human like speed to avoid detection.(This mode is very SLOW)
 The delay between each word written can also be customised if the setting is turned to bot speed.
 
 Some issues:
+
 In order to use this bot, you will need the chrome browser installed.
 The program will not be able to repeat itself once the test is done. You will have to close the browser and rerun the program if you wish to use the bot again.
 Needs permission to run by the browser. 
 Needs permission to run by the computer(maybe).
 How to operate:
+
+
 1. You can use terminal to navigate to the directory the file is in. You can search up how to navigate in terminal on any search engine.
 2. Once in the directory, type "python Monkeytypehack.py".
 3. The program should now run if there aren't any crashes
