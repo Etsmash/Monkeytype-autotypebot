@@ -1,5 +1,5 @@
 # Monkeytype-autotypebot
-Auto typing bot for monkey type
+Superior auto typing bot for monkey type
 
 So what can this bot achieve:
 
@@ -13,6 +13,7 @@ Some issues:
 2. The program will not be able to repeat itself once the test is done. You will have to close the browser and rerun the program if you wish to use the bot again.
 3. Needs permission to run by the browser. 
 4. Needs permission to run by the computer(maybe).
+5. Limited by Monkeytypes' ability to change state of words from word to active. :(
 
 
 How to operate:
