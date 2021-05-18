@@ -18,7 +18,7 @@ Needs permission to run by the computer(maybe).
 How to operate:
 
 
-1. You can use terminal to navigate to the directory the file is in. You can search up how to navigate in terminal on any search engine.
+1. You can use "terminal" to navigate to the directory the file is in. You can search up how to navigate in terminal on any search engine.
 2. Once in the directory, type "python Monkeytypehack.py".
 3. The program should now run if there aren't any crashes
 4. You will need to follow the prompts in the command line in order to activate the bot.
