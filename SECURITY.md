@@ -11,7 +11,6 @@ Code scanners were used as well as several bots.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
 
 Report a vulnerability in issues. State what the vulnerability is. Be specific.
 If the vulnerability is found to be a troll, then issues from that given username will be disregarded.
