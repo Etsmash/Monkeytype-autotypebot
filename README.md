@@ -15,6 +15,7 @@ Some issues:
 3. Needs permission to run by the browser. 
 4. Needs permission to run by the computer(maybe).
 5. Limited by Monkeytypes' ability to change state of words from word to active. :(
+6. You may get banned...
 
 
 How to operate:
