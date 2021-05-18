@@ -3,16 +3,16 @@ Auto typing bot for monkey type
 
 So what can this bot achieve:
 
-Well depending on the specs of your computer, it can reach well over 1000 wpm without breaking. 
-It can be toggled to achieve human like speed to avoid detection.(This mode is very SLOW)
-The delay between each word written can also be customised if the setting is turned to bot speed.
+1. Well depending on the specs of your computer, it can reach well over 1000 wpm without breaking. 
+2. It can be toggled to achieve human like speed to avoid detection.(This mode is very SLOW)
+3. The delay between each word written can also be customised if the setting is turned to bot speed.
 
 Some issues:
 
-In order to use this bot, you will need the chrome browser installed.
-The program will not be able to repeat itself once the test is done. You will have to close the browser and rerun the program if you wish to use the bot again.
-Needs permission to run by the browser. 
-Needs permission to run by the computer(maybe).
+1. In order to use this bot, you will need the chrome browser installed.
+2. The program will not be able to repeat itself once the test is done. You will have to close the browser and rerun the program if you wish to use the bot again.
+3. Needs permission to run by the browser. 
+4. Needs permission to run by the computer(maybe).
 
 
 How to operate:
