@@ -13,6 +13,8 @@ In order to use this bot, you will need the chrome browser installed.
 The program will not be able to repeat itself once the test is done. You will have to close the browser and rerun the program if you wish to use the bot again.
 Needs permission to run by the browser. 
 Needs permission to run by the computer(maybe).
+
+
 How to operate:
 
 
