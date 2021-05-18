@@ -21,13 +21,13 @@ How to operate:
 
 
 1. You can use "terminal" to navigate to the directory the file is in. You can search up how to navigate in terminal on any search engine.
-2. Once in the directory, type "python Monkeytypehack.py".
+2. Once in the directory, type "python Automonkeytyper.py".
 3. The program should now run if there aren't any crashes
 4. You will need to follow the prompts in the command line in order to activate the bot.
 5. A browser will open during the setup.DO NOT CLOSE THE BROWSER WHICH OPENS UP!!!!(cause if you do, you shut the bot down and you will be achieving nothing by doing so). You will click on the browser when the prompt says "get on the page and click to go in view"
 6. Once the bot is primed and ready(you will know this when the prompt in the command line says "get on the page and click to go in view"), you will only have 10 seconds to click on the browser.You do not need to do anything else.
 7. Once the bot types all the words required, the bot will shut down.
-8. If you need to reactivate it, type "python Monkeytypehack.py" back into the command line.
+8. If you need to reactivate it, type "python Automonkeytyper.py" back into the command line.
 
 
 
